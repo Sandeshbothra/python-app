@@ -1,2 +1,6 @@
 Flask
 gunicorn
+pymysql
+SQLAlchemy
+requests
+bcrypt
